@@ -1,0 +1,21 @@
+{
+    "name": "eu.duarte.ios",
+    "version": "0.1.0",
+    "diplayName": "Unity iOS Devices",
+    "description": "Unity iOS Devices allows you to get information at runtime about the device your application is currently running in.",
+    "unity": "2018.4",
+    "keywords": [
+        "iOS",
+        "device",
+        "generation"
+    ],
+    "author": {
+        "name": "Duarte Roso",
+        "email": "duarte.roso@unity3d.com",
+        "url": "https://www.unity.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "ssh://git@bitbucket.org/rosod/eu.duarte.ios.git"
+    }
+}
