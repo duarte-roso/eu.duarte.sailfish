@@ -1,11 +1,11 @@
 {
-    "name": "eu.duarte.ios",
+    "name": "eu.duarte.sailfish",
     "version": "0.1.0",
-    "diplayName": "Unity iOS Devices",
-    "description": "Unity iOS Devices allows you to get information at runtime about the device your application is currently running in.",
-    "unity": "2018.4",
+    "diplayName": "Unity sailfish Devices",
+    "description": "Unity Sailfish Devices allows you to get information at runtime about the device your application is currently running in.",
+    "unity": "2019.2",
     "keywords": [
-        "iOS",
+        "Sailfish",
         "device",
         "generation"
     ],
@@ -16,6 +16,6 @@
     },
     "repository": {
         "type": "git",
-        "url": "ssh://git@bitbucket.org/rosod/eu.duarte.ios.git"
+        "url": "ssh://git@github.com/duarte-roso/eu.duarte.sailfish.git"
     }
 }
